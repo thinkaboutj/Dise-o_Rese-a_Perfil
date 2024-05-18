@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"implementaciones","l":"Administrador"},{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Interfaz","l":"IAdmin"}];updateSearchResults();

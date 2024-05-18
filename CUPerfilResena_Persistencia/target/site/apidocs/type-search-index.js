@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"ConexionBD","l":"ConexionBD"},{"p":"interfaces","l":"IUsuarioDAO"},{"p":"Entity","l":"Usuario"},{"p":"DAO","l":"UsuarioDAO"}];updateSearchResults();

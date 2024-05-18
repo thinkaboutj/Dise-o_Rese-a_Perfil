@@ -1,0 +1,52 @@
+@options
+@packages
+-classpath
+'C:/Users/jesus/.m2/repository/com/mycompany/CUGestionUsuario_Persistencia/1.0-SNAPSHOT/CUGestionUsuario_Persistencia-1.0-SNAPSHOT.jar;C:/Users/jesus/.m2/repository/org/mongodb/mongo-java-driver/3.10.2/mongo-java-driver-3.10.2.jar;C:/Users/jesus/.m2/repository/org/mongodb/mongodb-driver-core/3.10.2/mongodb-driver-core-3.10.2.jar;C:/Users/jesus/.m2/repository/org/mongodb/bson/3.10.2/bson-3.10.2.jar;C:/Users/jesus/.m2/repository/com/mycompany/CUGestionUsuario_DTO/1.0-SNAPSHOT/CUGestionUsuario_DTO-1.0-SNAPSHOT.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/Users/jesus/OneDrive/Documentos/NetBeansProjects/CUGestionUsuario_BO/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/jesus/OneDrive/Documentos/NetBeansProjects/CUGestionUsuario_BO/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'CUGestionUsuario_BO 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'CUGestionUsuario_BO 1.0-SNAPSHOT API'
+BO
+C:\Users\jesus\.m2\repository\com\mycompany\CUGestionUsuario_Persistencia\1.0-SNAPSHOT\CUGestionUsuario_Persistencia-1.0-SNAPSHOT.jar = 1715749868553
+C:\Users\jesus\.m2\repository\org\mongodb\mongo-java-driver\3.10.2\mongo-java-driver-3.10.2.jar = 1714076911308
+C:\Users\jesus\.m2\repository\org\mongodb\mongodb-driver-core\3.10.2\mongodb-driver-core-3.10.2.jar = 1714076912489
+C:\Users\jesus\.m2\repository\org\mongodb\bson\3.10.2\bson-3.10.2.jar = 1714076911705
+C:\Users\jesus\.m2\repository\com\mycompany\CUGestionUsuario_DTO\1.0-SNAPSHOT\CUGestionUsuario_DTO-1.0-SNAPSHOT.jar = 1715749892938
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\CUGestionUsuario_BO\src\main\java = 1715012790717
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\CUGestionUsuario_BO\target\site\apidocs\allclasses-index.html = 1715750102290
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\CUGestionUsuario_BO\target\site\apidocs\allpackages-index.html = 1715750102294
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\CUGestionUsuario_BO\target\site\apidocs\copy.svg = 1715750102353
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\CUGestionUsuario_BO\target\site\apidocs\element-list = 1715750102210
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\CUGestionUsuario_BO\target\site\apidocs\help-doc.html = 1715750102340
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\CUGestionUsuario_BO\target\site\apidocs\index-all.html = 1715750102324
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\CUGestionUsuario_BO\target\site\apidocs\index.html = 1715750102334
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\CUGestionUsuario_BO\target\site\apidocs\link.svg = 1715750102357
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\CUGestionUsuario_BO\target\site\apidocs\member-search-index.js = 1715750102302
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\CUGestionUsuario_BO\target\site\apidocs\module-search-index.js = 1715750102297
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\CUGestionUsuario_BO\target\site\apidocs\overview-tree.html = 1715750102271
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\CUGestionUsuario_BO\target\site\apidocs\package-search-index.js = 1715750102299
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\CUGestionUsuario_BO\target\site\apidocs\script.js = 1715750102351
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\CUGestionUsuario_BO\target\site\apidocs\search-page.js = 1715750102366
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\CUGestionUsuario_BO\target\site\apidocs\search.html = 1715750102329
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\CUGestionUsuario_BO\target\site\apidocs\search.js = 1715750102361
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\CUGestionUsuario_BO\target\site\apidocs\stylesheet.css = 1715750102347
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\CUGestionUsuario_BO\target\site\apidocs\tag-search-index.js = 1715750102306
+C:\Users\jesus\OneDrive\Documentos\NetBeansProjects\CUGestionUsuario_BO\target\site\apidocs\type-search-index.js = 1715750102300

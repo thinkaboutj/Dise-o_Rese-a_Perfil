@@ -1,0 +1,6 @@
+DAO\ProductoDAO.class
+interfaces\IUsuarioDAO.class
+ConexionBD\ConexionBD.class
+Entity\Producto.class
+Entity\Usuario.class
+DAO\UsuarioDAO.class
